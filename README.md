@@ -1,4 +1,2 @@
 # CURD-API-gateway-Lambda-DynamoDB
-
-### Contains set of Commands that were used to add aws-sdk layer to lambda function.
-### Commands were executed from the Cloudshell terminal.
+CURD operaions performed on API gateway to add items in DynamoDb table with the help of Lambda function.
